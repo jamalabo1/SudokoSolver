@@ -6,7 +6,7 @@ namespace Sudoku_V3
     {
         public static void Main()
         {
-/*            const string path = @"C:\Users\jamal\source\repos\Soduku\Soduku\Data.json";*/
+
 
 
 //            const string boardString = "000020000000785000305000408040000020170403065090000030704000106000638000000040000";
